@@ -6,7 +6,7 @@ Android folks can use Kiwi Browser + Tampermonkey.
 
 Install "Tampermonkey" extension (https://www.tampermonkey.net/)
 
-Open the following page in your browser:  https://raw.githubusercontent.com/KyoMiyake/Danidev-Bot/blob/main/minimap.user.js
+Open the following page in your browser:  https://raw.githubusercontent.com/KyoMiyake/Danidev-Bot/main/minimap.user.js
 
 This will open Tampermonkey and invite you to install the userscript.
 
