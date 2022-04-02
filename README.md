@@ -1,4 +1,4 @@
-#Help get the Danidev on r/place 2022
+Help get the Danidev on r/place 2022
 
 Use a Chromium based browser (Google Chrome, Edge, Opera, Yandex.Browser) Firefox not working!
 Android folks can use Kiwi Browser + Tampermonkey.
